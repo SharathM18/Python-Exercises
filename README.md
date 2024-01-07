@@ -9,3 +9,5 @@
 [Exercise 04](https://github.com/SharathM18/Python-Exercises/blob/2fcdbc8d22d0d77c32d75e88f48b6d27a14b2bd3/04.py): Program to remove a specific index character in a string.
 
 [Exercise 05](https://github.com/SharathM18/Python-Exercises/blob/0d1dfd7f9d13c7715800b30845f807a6dc78e6c1/05.py): Program to Sort the words in a given string.
+
+[Exercise 06](https://github.com/SharathM18/Python-Exercises/blob/466c7d874e06132053bd3c36c50c89b17d617b5d/06.py): Program to find longest palindrome within a given sentence.
