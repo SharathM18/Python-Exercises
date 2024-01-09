@@ -13,3 +13,5 @@
 [Exercise 06](https://github.com/SharathM18/Python-Exercises/blob/466c7d874e06132053bd3c36c50c89b17d617b5d/06.py): Program to find the longest palindrome within a given sentence.
 
 [Exercise 07](https://github.com/SharathM18/Python-Exercises/blob/052f152896ee90ba6beb4079c55895e24173553a/07.py): Program to print the most repeated number in a given array.
+
+[Exercise 08](https://github.com/SharathM18/Python-Exercises/blob/9cc8db9b728d7583ac3889df63ccd72485edf29b/08.py): Program to check whether a given number is a prime number or not.
