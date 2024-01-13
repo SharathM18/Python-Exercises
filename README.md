@@ -15,3 +15,5 @@
 [Exercise 07](https://github.com/SharathM18/Python-Exercises/blob/052f152896ee90ba6beb4079c55895e24173553a/07.py): Program to print the most repeated number in a given array.
 
 [Exercise 08](https://github.com/SharathM18/Python-Exercises/blob/9cc8db9b728d7583ac3889df63ccd72485edf29b/08.py): Program to check whether a given number is a prime number or not.
+
+[Exercise 09](https://github.com/SharathM18/Python-Exercises/blob/7df0549186de84707700be7f39a0889e36e2191b/09.py): Program to find the factorial of a given number using recursion.
