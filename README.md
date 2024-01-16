@@ -17,3 +17,5 @@
 [Exercise 08](https://github.com/SharathM18/Python-Exercises/blob/9cc8db9b728d7583ac3889df63ccd72485edf29b/08.py): Program to check whether a given number is a prime number or not.
 
 [Exercise 09](https://github.com/SharathM18/Python-Exercises/blob/7df0549186de84707700be7f39a0889e36e2191b/09.py): Program to find the factorial of a given number using recursion.
+
+[Exercise 10](https://github.com/SharathM18/Python-Exercises/blob/1d5c0e04d17a99270250b5250ab08f6e6019f59a/10.py): Program to find the leap year or not.
