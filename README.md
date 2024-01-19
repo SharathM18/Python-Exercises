@@ -21,3 +21,5 @@
 [Exercise 10](https://github.com/SharathM18/Python-Exercises/blob/1d5c0e04d17a99270250b5250ab08f6e6019f59a/10.py): Program to find the leap year or not.
 
 [Exercise 11](https://github.com/SharathM18/Python-Exercises/blob/70202cbcafcad4578dcfab0d8bcc7bab34b8e2d8/11.py): Program to check if a string is a palindrome.
+
+[Exercise 12](https://github.com/SharathM18/Python-Exercises/blob/42b0858af4d64f366e8565af1cf0690f1c88ea29/12.py): Program to count Palindrome in the Array
