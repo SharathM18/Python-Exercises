@@ -22,4 +22,6 @@
 
 [Exercise 11](https://github.com/SharathM18/Python-Exercises/blob/70202cbcafcad4578dcfab0d8bcc7bab34b8e2d8/11.py): Program to check if a string is a palindrome.
 
-[Exercise 12](https://github.com/SharathM18/Python-Exercises/blob/42b0858af4d64f366e8565af1cf0690f1c88ea29/12.py): Program to count Palindrome in the Array
+[Exercise 12](https://github.com/SharathM18/Python-Exercises/blob/42b0858af4d64f366e8565af1cf0690f1c88ea29/12.py): Program to count Palindrome in the Array.
+
+[Exercise 13](https://github.com/SharathM18/Python-Exercises/blob/25e27b9e3c2683858e52d75ce870913f1bc9b4cc/13.py): Even-Odd Number Checker.
