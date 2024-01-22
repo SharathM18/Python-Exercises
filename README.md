@@ -25,3 +25,7 @@
 [Exercise 12](https://github.com/SharathM18/Python-Exercises/blob/42b0858af4d64f366e8565af1cf0690f1c88ea29/12.py): Program to count Palindrome in the Array.
 
 [Exercise 13](https://github.com/SharathM18/Python-Exercises/blob/25e27b9e3c2683858e52d75ce870913f1bc9b4cc/13.py): Even-Odd Number Checker.
+
+## Pattern Programs
+
+[01](https://github.com/SharathM18/Python-Exercises/blob/14d6b7311793986d99ca14456c950e097e06c310/pattern_programs/01.py): Right half pyramid.
