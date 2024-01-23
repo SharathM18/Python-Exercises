@@ -29,3 +29,5 @@
 ## Pattern Programs
 
 [01](https://github.com/SharathM18/Python-Exercises/blob/14d6b7311793986d99ca14456c950e097e06c310/pattern_programs/01.py): Right half pyramid.
+
+[02](https://github.com/SharathM18/Python-Exercises/blob/ba664176ecb1d83cc0b8f32d6d8d8546b8132516/pattern_programs/02.py): left half pyramid.
