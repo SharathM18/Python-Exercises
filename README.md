@@ -35,3 +35,5 @@
 [03](https://github.com/SharathM18/Python-Exercises/blob/f6eb9e097f79a0aa52d56895828ee72149805725/pattern_programs/03.py): Full Pyramid.
 
 [04](https://github.com/SharathM18/Python-Exercises/blob/b1ed8f530bd263f7d634ff162feb5cf69ba45656/pattern_programs/04.py): Inverted Right Half Pyramid Pattern.
+
+[05](https://github.com/SharathM18/Python-Exercises/blob/156a4e4c98e4c1a145a9c9173de360cb92805891/pattern_programs/05.py): Inverted Left Half Pyramid Pattern.
