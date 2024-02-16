@@ -41,3 +41,5 @@
 [06](https://github.com/SharathM18/Python-Exercises/blob/4e2704c4cdbdd79756a342dde2af1786fbc1139e/pattern_programs/06.py): Inverted Full Pyramid Pattern.
 
 [07](https://github.com/SharathM18/Python-Exercises/blob/35c2626e8d017f6cfd650efc689f67b4ba271d98/pattern_programs/07.py): Diamond Shaped Pattern.
+
+[08](https://github.com/SharathM18/Python-Exercises/blob/69223dbf4af6006e01d3562c10b0d7ae9d363065/pattern_programs/08.py): Rhombus Pattern.
